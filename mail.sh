@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#a change
+
 ROOT=${EMAIL}
 MESSAGE=${MESSAGE}
 SUBJECT=${SUBJECT}
